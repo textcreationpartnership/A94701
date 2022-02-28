@@ -1,0 +1,479 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the supream authority of this nation, the Commons of England in Parliament assembled. The humble petition of the creditors of Sir Peter Temple, Knight and Baronet; whose names are hereunder written</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94701</idno>
+            <idno type="STC">Wing T1737A</idno>
+            <idno type="STC">ESTC R219491</idno>
+            <idno type="EEBO-CITATION">99895235</idno>
+            <idno type="PROQUEST">99895235</idno>
+            <idno type="VID">152742</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94701)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152742)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2318:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the supream authority of this nation, the Commons of England in Parliament assembled. The humble petition of the creditors of Sir Peter Temple, Knight and Baronet; whose names are hereunder written</title>
+                  <author>Sanders, Thomas, fl. 1650.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1650?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Thomas Sanders [and 40 others].</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Includes a list of the debts owed to the various petitioners.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Temple, Peter, --  Sir, 1592-1653 --  Early works to 1800.</term>
+               <term>Broadsides --  England --  London</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:152742:1"/>
+            <head>To the Supream Authority of this Nation, the Commons of <hi>England</hi> in Parliament Aſſembled.</head>
+            <head type="sub">The Humble Petition of the Creditors of Sir <hi>Peter Temple,</hi> Knight and Baronet; whoſe names are hereunder written.</head>
+            <opener>Humbly ſheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat the ſaid Sir <hi>Peter Temple,</hi> being many years ſince indebted to the Petitioners in the ſeverall debts in the Schedule annexed, amounting to above 20000 <abbr>
+                  <hi>l.</hi>
+               </abbr> and having a reall Eſtate in Lands to the value of about 4000 <hi>
+                  <abbr>l.</abbr> per annum,</hi> and great ſtore of woods upon thoſe Lands to the value of 10000 <abbr>
+                  <hi>l.</hi>
+               </abbr> at the leaſt: And nevertheleſſe intending to defraud his Creditors, of their ſaid debts (a great part whereof is Orphans portions) And being a Member of this Houſe, and having thereby protected his perſon, and Eſtate, he hath ever ſince refuſed to pay his debts, and hath not paid conſideration for the ſame, and when he diſcovered, that this Honorable Houſe was inclined to make the Eſtates of the Members thereof lyable to the payment of their debts for releif of the Subject, then the ſaid Sir <hi>Peter</hi> ſtill to protect his Eſtate, made a ſecret conveyance of all his Eſtate, Rents and Revenues to ſome of his own ſpeciall friends, (that is to ſay) to the Lord <hi>Savile</hi> and others, and to that conveyance annexed a Schedule of pretended debts, to be paid by the ſaid Truſtees forth of the ſaid Rents. Of which debts ſome were reall, ſome were fained, But theſe Petitioners, are by the ſaid fraudulent Deede barred of their re<g ref="char:EOLhyphen"/>medy againſt the ſaid Eſtate, and theſe Petitioners are like to be all defrauded, unleſſe they be relieved by the preſent Juſtice of this Hono<g ref="char:EOLhyphen"/>rable Aſſemblie.</p>
+            <p>For remedy herein, and foraſmuch as the Lands of the ſaid Sir <hi>Peter Temple</hi> are entailed, and in caſe the ſaid Sir <hi>Peter</hi> ſhould happen to dye before proviſion made, for payment of the ſaid Debts, the Petitioners would be altogether remedileſſe, and for as much as he ſtandeth out lawed after Judgment, for ſeverall of the ſaid Debts.</p>
+            <p>
+               <hi>The Petitioners humbly pray that this practiſe of the ſaid Sir</hi> Peter Temple <hi>(tending to the ruine of many of the Petitioners) may not be made uſe of, to the defeating of the Petitioners of their juſt Debts, but that ſuch part of the ſaid Lands and Woods may bee ſold for the ſpeedy payment of the ſaid juſt debts, as to your Wiſdomes and Juſtice ſhall ſeem meet.</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>Thomas Sanders.</hi>
+               </item>
+               <item>
+                  <hi>Henry Holcroft.</hi>
+               </item>
+               <item>
+                  <hi>Iohn Gore.</hi>
+               </item>
+               <item>
+                  <hi>Henry Blunt.</hi>
+               </item>
+               <item>
+                  <hi>Edwine Rich.</hi>
+               </item>
+               <item>
+                  <hi>John Rous.</hi>
+               </item>
+               <item>
+                  <hi>George Coney.</hi>
+               </item>
+               <item>
+                  <hi>James Davenport.</hi>
+               </item>
+               <item>
+                  <hi>Benjamine Beckman.</hi>
+               </item>
+               <item>
+                  <hi>Richard Lane.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Farmer.</hi>
+               </item>
+               <item>
+                  <hi>John Cage.</hi>
+               </item>
+               <item>
+                  <hi>Edward Moore.</hi>
+               </item>
+               <item>
+                  <hi>Edward Smith.</hi>
+               </item>
+               <item>
+                  <hi>David Murray.</hi>
+               </item>
+               <item>
+                  <hi>Anne Cole.</hi>
+               </item>
+               <item>
+                  <hi>Anne Salmon.</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth Salmon.</hi>
+               </item>
+               <item>
+                  <hi>Mary Salmon.</hi>
+               </item>
+               <item>
+                  <hi>Henry Dawſon.</hi>
+               </item>
+               <item>
+                  <hi>Emund Keyſer.</hi>
+               </item>
+               <item>
+                  <hi>John Tull.</hi> for</item>
+               <item>
+                  <hi>Michael Parker.</hi>
+               </item>
+               <item>
+                  <hi>John Hern</hi> for</item>
+               <item>
+                  <hi>James Parrot.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Colwall</hi> for</item>
+               <item>Sir <hi>John Manwood</hi>
+               </item>
+               <item>
+                  <hi>Edward Ruſell.</hi>
+               </item>
+               <item>
+                  <hi>Henry Pits.</hi>
+               </item>
+               <item>
+                  <hi>Maurice Griffin.</hi>
+               </item>
+               <item>
+                  <hi>Michael Parker,</hi>
+               </item>
+               <item>
+                  <hi>Robert Edwards.</hi>
+               </item>
+               <item>
+                  <hi>Randall Brereton.</hi>
+               </item>
+               <item>
+                  <hi>Henry Flatman</hi> for</item>
+               <item>
+                  <hi>Abigall Yate.</hi>
+               </item>
+               <item>
+                  <hi>Charles Yate</hi> and</item>
+               <item>
+                  <hi>John Buckland.</hi>
+               </item>
+               <item>
+                  <hi>Robert Baylie.</hi>
+               </item>
+               <item>
+                  <hi>Margaret Tooly.</hi>
+               </item>
+               <item>
+                  <hi>Francis Snow.</hi>
+               </item>
+               <item>
+                  <hi>Roger Price.</hi>
+               </item>
+            </list>
+            <list>
+               <head>A ſchedule of the debts owing by Sir, <hi>Peter Temple,</hi> Knight and Barronet unto the Petitioners.</head>
+               <item>Sir, <hi>Henry Holcroft,</hi> by judgment, 200 <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>James Davenport,</hi> 
+                  <abbr>Eſq</abbr> by judgment, 900. <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>Sir, <hi>Iohn Gore,</hi> and <hi>William Gore,</hi> by judg. 1000. <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>George Coney,</hi> 
+                  <abbr>Eſq</abbr> by judgement, 1000. <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Edmond Keyſer,</hi> by judgement, 100. <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Michaiell Parker,</hi> by judgement, 100. <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Benedicit Scot,</hi> Executor to <hi>Arthur Crew</hi> by judgment, 400. <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Edward Smith,</hi> by judgement, 1000. <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Iohn Rous</hi> by Bond, 600. <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>David Murray,</hi> 
+                  <abbr>Eſq</abbr> by judgement, 400. <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Iſabell Shelton,</hi> by bond, 400. <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Ioſeth Parrot,</hi> by judgement, 120. <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Henry Dawſon,</hi> by book, 80. <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Richard Lane,</hi> by bond, 600. <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>David Murray,</hi> 
+                  <abbr>Eſq</abbr> for rent, 150. <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Anne Elizabeth,</hi> and <hi>Mary Salmon,</hi> daughters of <hi>Iohn Salmon,</hi> by bond, 1000. <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>Sir, <hi>Thomas Sanders,</hi> by bond, 400. <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>Sir, <hi>Iohn Manwood,</hi> by bond, 400. <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Edward Ruſſell,</hi> by bond, 600. <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Henry Pits,</hi> by bond. 200, <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Maurice Griffin,</hi> by bond 200. <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Michaell Parker,</hi> by bond, 100. <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Robert Edwards,</hi> by bond, 400. <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Abigale Yate,</hi> by bond 1000. <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Triſtram Stevens,</hi> by bond, 400. <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Benjamine Beckman,</hi> 
+                  <abbr>Eſq</abbr> by bond, 400. <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Francis Harrington,</hi> 400. <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Robert Baylie,</hi> 100. <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Edward Moor,</hi> 
+                  <abbr>Eſq</abbr> — 600. <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Doctor Caſtle,</hi> 100. <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Thomas Farmer,</hi> 
+                  <abbr>Eſq</abbr> 100. <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>Widdow <hi>Millet,</hi> 200. <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Iohn Cage,</hi> by judgment, 600. <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>Sir, <hi>Edmond Pye,</hi> 1000. <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>Mr. <hi>Price</hi> 200. <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>Mr. <hi>Ruſſell,</hi> 600. <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Edwine Rich,</hi> 
+                  <abbr>Eſq</abbr> 400. <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>William Wallcot,</hi> 1000. <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Anne Cole</hi> widdow, 600. <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Randall Brereton,</hi> 200. <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>Mr. <hi>Buckland,</hi> 800. <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>Miſtris <hi>Burnell,</hi> 200. <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>Miſtris <hi>Abygale Yate,</hi> 1000. <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>Mr. <hi>Charlea Yate,</hi> 600. <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>Miſtris <hi>Francis Snow,</hi> 300. <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+               <item>Miſtris <hi>Margaret Tooley,</hi> 100. <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </item>
+            </list>
+            <pb facs="tcp:152742:2" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
